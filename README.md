@@ -163,10 +163,7 @@ Conversion specifiers to handle: d, i, u, o, x, X
 <h3>Authors </h3
 
 
-* GEDEON OBAE GEKONGE <[Gedeonobae](https://github.com/Gedeonobae)>
-
-
-* Ruth Mensire <[Mensire](https://github.com/Mensire)>
+* Linet Muchunu <[Linet Muchunu](https://github.com/Linet-001)>
 
 ## Acknowledgements :pray:
 
